@@ -1,5 +1,5 @@
 
-# PYTHON 🐍 | Estudos do curso Sistemas de Informação 📒
+# 🐍 PYTHON  | 📒 Estudos do curso Sistemas de Informação 
 
 📂 Repositório para armazenar estudos, exercícios e projetos realizados durante o curso de Sistemas de Informação.
 
